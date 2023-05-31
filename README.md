@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-
 ### Меня зовут Ольга, я - инженер по тестированию программного обеспечения 
+
 
 ## Стек и инструменты
 <p align="center"
@@ -24,6 +24,18 @@
 </p>
 
 ---------------
+<details><summary>:scroll: <b>Курсы</b></summary>
+<p> <table style="width=100%" cellspacing="0" cellpadding="5">
+    
+   <tr >
+         <tr >
+        <td align="center"><a href="https://qa.guru/python" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/b635b6cb9478bb87c77e9c070ee6e122.png/s/x50/a/159627/sc/207"></a></td>
+        <td>Курс инженеров по автоматизации тестирования на Python</td>
+        <td>2023</td>
+  </tr>
+
+
+
 
 ## Дипломные проекты:
 * <b>[API авто тесты](https)</b>
