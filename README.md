@@ -27,7 +27,7 @@
 
 ## Дипломные проекты:
 * <b>[API авто тесты](https)</b>
-* <b>[UI авто тесты](https://github.com/Oljaja/ga_guru_diplom_UI-main))</b>
+* <b>[UI авто тесты](https://github.com/Oljaja/ga_guru_diplom_UI-main)</b>
 * <b>[Mobile авто тесты](https)</b>
 
 
