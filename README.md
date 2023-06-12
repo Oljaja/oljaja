@@ -45,7 +45,11 @@
         <td>2023</td>
   </tr>
 
-
+<tr >
+        <td align="center"><a href="https://it-switcher.ru/qa_course" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://fs11.getcourse.ru/fileservice/file/download/a/405066/sc/356/h/65c80d84a1def69e5beab9f4a483bf78.png/s/x50/a/159627/sc/207"></a></td>
+   
+        <td>Профессия Инженер по ручному тестированию.</td>
+        <td>2022</td>
 
 
 
