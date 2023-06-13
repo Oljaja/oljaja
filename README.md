@@ -28,7 +28,7 @@
 ## Дипломные проекты:
 * <b>[API авто тесты](https://github.com/Oljaja/qa_guru_diplom_api-main)</b>
 * <b>[UI авто тесты](https://github.com/Oljaja/ga_guru_diplom_UI-main)</b>
-* <b>[Mobile авто тесты](https)</b>
+
 
 
 
@@ -39,11 +39,9 @@
 <p> <table style="width=100%" cellspacing="0" cellpadding="5">
     
    <tr >
-         <tr >
         <td align="center"><a href="https://qa.guru/python" target="_blank" rel="noopener noreferrer"><img style="width:110px" src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/b635b6cb9478bb87c77e9c070ee6e122.png/s/x50/a/159627/sc/207"></a></td>
         <td>Курс инженеров по автоматизации тестирования на Python</td>
         <td>2023</td>
-  </tr>
 
     
 
